@@ -20,8 +20,10 @@ The challenge is to build out this product preview card component and get it loo
 
 ### Screenshot
 
-![screenshot of my mobile solution to [Product preview card component challenge on Frontend Mentor](./screenshots/screenshot-mobile.png)
-![screenshot of my desktop solution to [Product preview card component challenge on Frontend Mentor](./screenshots/screenshot-desktop.png)
+![screenshot of my desktop solution to Stats preview card component](./screenshots/screenshot-desktop.png)
+
+![screenshot of my mobile solution to the Product preview card component challenge on Frontend Mentor](./screenshots/screenshot-mobile.png)
+![screenshot of my desktop solution to the Product preview card component challenge on Frontend Mentor](./screenshots/screenshot-desktop.png)
 
 ### Links
 
